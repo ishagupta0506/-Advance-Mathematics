@@ -1,4 +1,4 @@
-# Probability Density Function Estimation -- Assignment
+# Probability Density Function Estimation - Assignment
 
 ## Objective
 
